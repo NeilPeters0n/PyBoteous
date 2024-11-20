@@ -1,0 +1,6 @@
+.env
+.DS_Store
+CodeRunnerFile.py
+tempCodeRunnerFile.py
+__pycache__/
+*.pyc
